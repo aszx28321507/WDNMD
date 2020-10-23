@@ -1,9 +1,12 @@
 computer netwokr計算機網路 網路概論
 說明OSI Model與 TCP/IP protocol
 
+
 協定protocol
 何謂communcation protocol[簡稱協定protocol]?
+以某一種大家所認同的方法來互相溝通稱之為協議
 WHY Layering為何要分層?
+主要是在網路通訊的整個過程中，將整個流程細化開來，每一層完成各自的事情，互不干擾
 
 各種協定
 簡述下列協定protocol
